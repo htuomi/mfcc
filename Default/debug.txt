@@ -1,0 +1,2955 @@
+Loading Clusters
+Clusters Loaded
+
+
+PATTERN 836:
+The closest cluster is: 3
+Distance 2.820098 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 836 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 837:
+The closest cluster is: 3
+Distance 3.913652 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 837 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 838:
+The closest cluster is: 3
+Distance 3.632949 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 838 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 839:
+The closest cluster is: 3
+Distance 4.014096 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 839 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 840:
+The closest cluster is: 0
+Distance 2.571883 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 840 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 841:
+The closest cluster is: 3
+Distance 3.390841 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 841 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 842:
+The closest cluster is: 3
+Distance 3.040549 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 842 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 843:
+The closest cluster is: 3
+Distance 2.186934 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 843 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 844:
+The closest cluster is: 3
+Distance 2.925380 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 844 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 845:
+The closest cluster is: 3
+Distance 3.699841 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 845 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 846:
+The closest cluster is: 3
+Distance 3.249180 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 846 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 847:
+The closest cluster is: 3
+Distance 2.667782 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 847 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 848:
+The closest cluster is: 3
+Distance 2.552167 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 848 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 849:
+The closest cluster is: 3
+Distance 2.141270 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 849 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 850:
+The closest cluster is: 3
+Distance 1.823937 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 850 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 851:
+The closest cluster is: 3
+Distance 4.124657 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 851 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 852:
+The closest cluster is: 3
+Distance 1.850723 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 852 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 853:
+The closest cluster is: 3
+Distance 3.647816 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 853 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 854:
+The closest cluster is: 3
+Distance 2.048554 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 854 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 855:
+The closest cluster is: 3
+Distance 2.634016 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 855 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 856:
+The closest cluster is: 3
+Distance 2.364471 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 856 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 857:
+The closest cluster is: 3
+Distance 2.169378 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 857 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 858:
+The closest cluster is: 0
+Distance 1.708662 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 858 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 859:
+The closest cluster is: 3
+Distance 3.098423 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 859 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 860:
+The closest cluster is: 3
+Distance 2.715517 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 860 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 861:
+The closest cluster is: 3
+Distance 2.363127 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 861 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 862:
+The closest cluster is: 3
+Distance 2.472498 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 862 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 863:
+The closest cluster is: 0
+Distance 3.395093 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 863 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 864:
+The closest cluster is: 3
+Distance 2.494997 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 864 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 865:
+The closest cluster is: 3
+Distance 2.788012 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 865 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 866:
+The closest cluster is: 3
+Distance 1.877342 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 866 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 867:
+The closest cluster is: 3
+Distance 2.512660 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 867 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 868:
+The closest cluster is: 3
+Distance 2.408678 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 868 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 869:
+The closest cluster is: 3
+Distance 2.485159 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 869 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 870:
+The closest cluster is: 3
+Distance 3.256863 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 870 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 871:
+The closest cluster is: 3
+Distance 2.823356 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 871 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 872:
+The closest cluster is: 3
+Distance 1.534104 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 872 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 873:
+The closest cluster is: 3
+Distance 2.028258 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 873 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 874:
+The closest cluster is: 3
+Distance 2.231851 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 874 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 875:
+The closest cluster is: 3
+Distance 2.045639 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 875 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 876:
+The closest cluster is: 3
+Distance 2.642622 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 876 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 877:
+The closest cluster is: 0
+Distance 3.483291 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 877 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 878:
+The closest cluster is: 3
+Distance 3.157724 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 878 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 879:
+The closest cluster is: 3
+Distance 2.476888 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 879 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 880:
+The closest cluster is: 3
+Distance 2.873526 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 880 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 881:
+The closest cluster is: 3
+Distance 2.393981 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 881 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 882:
+The closest cluster is: 0
+Distance 2.174521 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 882 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 883:
+The closest cluster is: 3
+Distance 1.673259 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 883 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 884:
+The closest cluster is: 3
+Distance 2.964026 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 884 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 885:
+The closest cluster is: 3
+Distance 1.705823 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 885 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 886:
+The closest cluster is: 3
+Distance 2.184279 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 886 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 887:
+The closest cluster is: 3
+Distance 1.712732 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 887 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 888:
+The closest cluster is: 3
+Distance 2.257241 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 888 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 889:
+The closest cluster is: 3
+Distance 2.655860 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 889 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 890:
+The closest cluster is: 3
+Distance 1.499650 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 890 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 891:
+The closest cluster is: 3
+Distance 2.968938 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 891 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 892:
+The closest cluster is: 0
+Distance 2.922059 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 892 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 893:
+The closest cluster is: 3
+Distance 2.784910 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 893 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 894:
+The closest cluster is: 0
+Distance 2.561067 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 894 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 895:
+The closest cluster is: 0
+Distance 2.885660 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 895 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 896:
+The closest cluster is: 3
+Distance 2.336851 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 896 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 897:
+The closest cluster is: 3
+Distance 2.836862 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 897 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 898:
+The closest cluster is: 3
+Distance 3.020598 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 898 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 899:
+The closest cluster is: 3
+Distance 1.726754 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 899 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 900:
+The closest cluster is: 3
+Distance 2.442064 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 900 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 901:
+The closest cluster is: 0
+Distance 2.472984 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 901 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 902:
+The closest cluster is: 3
+Distance 2.724006 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 902 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 903:
+The closest cluster is: 3
+Distance 1.864934 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 903 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 904:
+The closest cluster is: 3
+Distance 2.741678 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 904 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 905:
+The closest cluster is: 3
+Distance 3.542842 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 905 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 906:
+The closest cluster is: 3
+Distance 1.717642 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 906 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 907:
+The closest cluster is: 3
+Distance 1.894315 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 907 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 908:
+The closest cluster is: 3
+Distance 2.801684 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 908 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 909:
+The closest cluster is: 3
+Distance 2.839648 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 909 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 910:
+The closest cluster is: 3
+Distance 4.389040 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 910 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 911:
+The closest cluster is: 3
+Distance 2.039836 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 911 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 912:
+The closest cluster is: 3
+Distance 3.666630 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 912 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 913:
+The closest cluster is: 2
+Distance 4.878017 < 6.000000
+Therefore cluster 2 passed the distance test.
+pattern 913 assigned to cluster 2
+Cluster member count updated
+
+
+PATTERN 914:
+The closest cluster is: 3
+Distance 2.477508 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 914 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 915:
+The closest cluster is: 3
+Distance 2.997916 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 915 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 916:
+The closest cluster is: 3
+Distance 2.573260 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 916 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 917:
+The closest cluster is: 3
+Distance 2.698545 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 917 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 918:
+The closest cluster is: 3
+Distance 3.592824 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 918 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 919:
+The closest cluster is: 13
+Distance 2.240447 < 6.000000
+Therefore cluster 13 passed the distance test.
+pattern 919 assigned to cluster 13
+Cluster member count updated
+
+
+PATTERN 920:
+The closest cluster is: 13
+Distance 4.092503 < 6.000000
+Therefore cluster 13 passed the distance test.
+pattern 920 assigned to cluster 13
+Cluster member count updated
+
+
+PATTERN 921:
+The closest cluster is: 7
+Distance 2.979640 < 6.000000
+Therefore cluster 7 passed the distance test.
+pattern 921 assigned to cluster 7
+Cluster member count updated
+
+
+PATTERN 922:
+The closest cluster is: 3
+Distance 3.237656 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 922 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 923:
+The closest cluster is: 7
+Distance 3.206810 < 6.000000
+Therefore cluster 7 passed the distance test.
+pattern 923 assigned to cluster 7
+Cluster member count updated
+
+
+PATTERN 924:
+The closest cluster is: 7
+Distance 3.287937 < 6.000000
+Therefore cluster 7 passed the distance test.
+pattern 924 assigned to cluster 7
+Cluster member count updated
+
+
+PATTERN 925:
+The closest cluster is: 12
+Distance 3.025606 < 6.000000
+Therefore cluster 12 passed the distance test.
+pattern 925 assigned to cluster 12
+Cluster member count updated
+
+
+PATTERN 926:
+The closest cluster is: 1
+Distance 2.738134 < 6.000000
+Therefore cluster 1 passed the distance test.
+pattern 926 assigned to cluster 1
+Cluster member count updated
+
+
+PATTERN 927:
+The closest cluster is: 2
+Distance 4.505651 < 6.000000
+Therefore cluster 2 passed the distance test.
+pattern 927 assigned to cluster 2
+Cluster member count updated
+
+
+PATTERN 928:
+The closest cluster is: 12
+Distance 3.459498 < 6.000000
+Therefore cluster 12 passed the distance test.
+pattern 928 assigned to cluster 12
+Cluster member count updated
+
+
+PATTERN 929:
+The closest cluster is: 13
+distance 7.044978 > 6.000000
+Therefore cluster 13 failed the distance test.
+Cluster Added
+so create NEW cluster number:15
+pattern 929 assigned to cluster 15
+Cluster member count updated
+
+
+PATTERN 930:
+The closest cluster is: 15
+Distance 2.493852 < 6.000000
+Therefore cluster 15 passed the distance test.
+pattern 930 assigned to cluster 15
+Cluster member count updated
+
+
+PATTERN 931:
+The closest cluster is: 15
+Distance 2.780910 < 6.000000
+Therefore cluster 15 passed the distance test.
+pattern 931 assigned to cluster 15
+Cluster member count updated
+
+
+PATTERN 932:
+The closest cluster is: 15
+Distance 5.241412 < 6.000000
+Therefore cluster 15 passed the distance test.
+pattern 932 assigned to cluster 15
+Cluster member count updated
+
+
+PATTERN 933:
+The closest cluster is: 14
+distance 6.407662 > 6.000000
+Therefore cluster 14 failed the distance test.
+Cluster Added
+so create NEW cluster number:16
+pattern 933 assigned to cluster 16
+Cluster member count updated
+
+
+PATTERN 934:
+The closest cluster is: 16
+Distance 2.888829 < 6.000000
+Therefore cluster 16 passed the distance test.
+pattern 934 assigned to cluster 16
+Cluster member count updated
+
+
+PATTERN 935:
+The closest cluster is: 16
+Distance 3.016746 < 6.000000
+Therefore cluster 16 passed the distance test.
+pattern 935 assigned to cluster 16
+Cluster member count updated
+
+
+PATTERN 936:
+The closest cluster is: 16
+Distance 4.154109 < 6.000000
+Therefore cluster 16 passed the distance test.
+pattern 936 assigned to cluster 16
+Cluster member count updated
+
+
+PATTERN 937:
+The closest cluster is: 16
+Distance 4.629683 < 6.000000
+Therefore cluster 16 passed the distance test.
+pattern 937 assigned to cluster 16
+Cluster member count updated
+
+
+PATTERN 938:
+The closest cluster is: 7
+Distance 2.825226 < 6.000000
+Therefore cluster 7 passed the distance test.
+pattern 938 assigned to cluster 7
+Cluster member count updated
+
+
+PATTERN 939:
+The closest cluster is: 7
+Distance 3.244501 < 6.000000
+Therefore cluster 7 passed the distance test.
+pattern 939 assigned to cluster 7
+Cluster member count updated
+
+
+PATTERN 940:
+The closest cluster is: 4
+Distance 2.928414 < 6.000000
+Therefore cluster 4 passed the distance test.
+pattern 940 assigned to cluster 4
+Cluster member count updated
+
+
+PATTERN 941:
+The closest cluster is: 5
+Distance 3.813236 < 6.000000
+Therefore cluster 5 passed the distance test.
+pattern 941 assigned to cluster 5
+Cluster member count updated
+
+
+PATTERN 942:
+The closest cluster is: 13
+Distance 4.458504 < 6.000000
+Therefore cluster 13 passed the distance test.
+pattern 942 assigned to cluster 13
+Cluster member count updated
+
+
+PATTERN 943:
+The closest cluster is: 10
+Distance 4.477277 < 6.000000
+Therefore cluster 10 passed the distance test.
+pattern 943 assigned to cluster 10
+Cluster member count updated
+
+
+PATTERN 944:
+The closest cluster is: 10
+Distance 1.346873 < 6.000000
+Therefore cluster 10 passed the distance test.
+pattern 944 assigned to cluster 10
+Cluster member count updated
+
+
+PATTERN 945:
+The closest cluster is: 10
+Distance 1.740727 < 6.000000
+Therefore cluster 10 passed the distance test.
+pattern 945 assigned to cluster 10
+Cluster member count updated
+
+
+PATTERN 946:
+The closest cluster is: 5
+Distance 4.426027 < 6.000000
+Therefore cluster 5 passed the distance test.
+pattern 946 assigned to cluster 5
+Cluster member count updated
+
+
+PATTERN 947:
+The closest cluster is: 5
+Distance 4.300761 < 6.000000
+Therefore cluster 5 passed the distance test.
+pattern 947 assigned to cluster 5
+Cluster member count updated
+
+
+PATTERN 948:
+The closest cluster is: 15
+Distance 3.822526 < 6.000000
+Therefore cluster 15 passed the distance test.
+pattern 948 assigned to cluster 15
+Cluster member count updated
+
+
+PATTERN 949:
+The closest cluster is: 15
+Distance 2.093014 < 6.000000
+Therefore cluster 15 passed the distance test.
+pattern 949 assigned to cluster 15
+Cluster member count updated
+
+
+PATTERN 950:
+The closest cluster is: 15
+Distance 3.796009 < 6.000000
+Therefore cluster 15 passed the distance test.
+pattern 950 assigned to cluster 15
+Cluster member count updated
+
+
+PATTERN 951:
+The closest cluster is: 15
+Distance 4.515428 < 6.000000
+Therefore cluster 15 passed the distance test.
+pattern 951 assigned to cluster 15
+Cluster member count updated
+
+
+PATTERN 952:
+The closest cluster is: 15
+Distance 4.502859 < 6.000000
+Therefore cluster 15 passed the distance test.
+pattern 952 assigned to cluster 15
+Cluster member count updated
+
+
+PATTERN 953:
+The closest cluster is: 16
+Distance 4.725305 < 6.000000
+Therefore cluster 16 passed the distance test.
+pattern 953 assigned to cluster 16
+Cluster member count updated
+
+
+PATTERN 954:
+The closest cluster is: 16
+Distance 2.647348 < 6.000000
+Therefore cluster 16 passed the distance test.
+pattern 954 assigned to cluster 16
+Cluster member count updated
+
+
+PATTERN 955:
+The closest cluster is: 13
+Distance 3.425246 < 6.000000
+Therefore cluster 13 passed the distance test.
+pattern 955 assigned to cluster 13
+Cluster member count updated
+
+
+PATTERN 956:
+The closest cluster is: 14
+Distance 3.438614 < 6.000000
+Therefore cluster 14 passed the distance test.
+pattern 956 assigned to cluster 14
+Cluster member count updated
+
+
+PATTERN 957:
+The closest cluster is: 13
+Distance 3.182484 < 6.000000
+Therefore cluster 13 passed the distance test.
+pattern 957 assigned to cluster 13
+Cluster member count updated
+
+
+PATTERN 958:
+The closest cluster is: 7
+Distance 2.196127 < 6.000000
+Therefore cluster 7 passed the distance test.
+pattern 958 assigned to cluster 7
+Cluster member count updated
+
+
+PATTERN 959:
+The closest cluster is: 13
+Distance 2.913310 < 6.000000
+Therefore cluster 13 passed the distance test.
+pattern 959 assigned to cluster 13
+Cluster member count updated
+
+
+PATTERN 960:
+The closest cluster is: 8
+Distance 3.891485 < 6.000000
+Therefore cluster 8 passed the distance test.
+pattern 960 assigned to cluster 8
+Cluster member count updated
+
+
+PATTERN 961:
+The closest cluster is: 1
+Distance 2.669603 < 6.000000
+Therefore cluster 1 passed the distance test.
+pattern 961 assigned to cluster 1
+Cluster member count updated
+
+
+PATTERN 962:
+The closest cluster is: 1
+Distance 3.111452 < 6.000000
+Therefore cluster 1 passed the distance test.
+pattern 962 assigned to cluster 1
+Cluster member count updated
+
+
+PATTERN 963:
+The closest cluster is: 1
+Distance 3.526397 < 6.000000
+Therefore cluster 1 passed the distance test.
+pattern 963 assigned to cluster 1
+Cluster member count updated
+
+
+PATTERN 964:
+The closest cluster is: 1
+Distance 3.893392 < 6.000000
+Therefore cluster 1 passed the distance test.
+pattern 964 assigned to cluster 1
+Cluster member count updated
+
+
+PATTERN 965:
+The closest cluster is: 1
+Distance 2.244435 < 6.000000
+Therefore cluster 1 passed the distance test.
+pattern 965 assigned to cluster 1
+Cluster member count updated
+
+
+PATTERN 966:
+The closest cluster is: 1
+Distance 1.538588 < 6.000000
+Therefore cluster 1 passed the distance test.
+pattern 966 assigned to cluster 1
+Cluster member count updated
+
+
+PATTERN 967:
+The closest cluster is: 12
+Distance 3.312486 < 6.000000
+Therefore cluster 12 passed the distance test.
+pattern 967 assigned to cluster 12
+Cluster member count updated
+
+
+PATTERN 968:
+The closest cluster is: 1
+Distance 1.775478 < 6.000000
+Therefore cluster 1 passed the distance test.
+pattern 968 assigned to cluster 1
+Cluster member count updated
+
+
+PATTERN 969:
+The closest cluster is: 1
+Distance 3.268816 < 6.000000
+Therefore cluster 1 passed the distance test.
+pattern 969 assigned to cluster 1
+Cluster member count updated
+
+
+PATTERN 970:
+The closest cluster is: 16
+Distance 3.155525 < 6.000000
+Therefore cluster 16 passed the distance test.
+pattern 970 assigned to cluster 16
+Cluster member count updated
+
+
+PATTERN 971:
+The closest cluster is: 16
+Distance 3.408894 < 6.000000
+Therefore cluster 16 passed the distance test.
+pattern 971 assigned to cluster 16
+Cluster member count updated
+
+
+PATTERN 972:
+The closest cluster is: 16
+Distance 2.771396 < 6.000000
+Therefore cluster 16 passed the distance test.
+pattern 972 assigned to cluster 16
+Cluster member count updated
+
+
+PATTERN 973:
+The closest cluster is: 16
+Distance 3.098170 < 6.000000
+Therefore cluster 16 passed the distance test.
+pattern 973 assigned to cluster 16
+Cluster member count updated
+
+
+PATTERN 974:
+The closest cluster is: 15
+Distance 2.620270 < 6.000000
+Therefore cluster 15 passed the distance test.
+pattern 974 assigned to cluster 15
+Cluster member count updated
+
+
+PATTERN 975:
+The closest cluster is: 15
+Distance 1.555982 < 6.000000
+Therefore cluster 15 passed the distance test.
+pattern 975 assigned to cluster 15
+Cluster member count updated
+
+
+PATTERN 976:
+The closest cluster is: 15
+Distance 1.874033 < 6.000000
+Therefore cluster 15 passed the distance test.
+pattern 976 assigned to cluster 15
+Cluster member count updated
+
+
+PATTERN 977:
+The closest cluster is: 16
+Distance 2.013201 < 6.000000
+Therefore cluster 16 passed the distance test.
+pattern 977 assigned to cluster 16
+Cluster member count updated
+
+
+PATTERN 978:
+The closest cluster is: 13
+Distance 5.563816 < 6.000000
+Therefore cluster 13 passed the distance test.
+pattern 978 assigned to cluster 13
+Cluster member count updated
+
+
+PATTERN 979:
+The closest cluster is: 1
+Distance 2.705662 < 6.000000
+Therefore cluster 1 passed the distance test.
+pattern 979 assigned to cluster 1
+Cluster member count updated
+
+
+PATTERN 980:
+The closest cluster is: 1
+Distance 2.612117 < 6.000000
+Therefore cluster 1 passed the distance test.
+pattern 980 assigned to cluster 1
+Cluster member count updated
+
+
+PATTERN 981:
+The closest cluster is: 1
+Distance 2.327643 < 6.000000
+Therefore cluster 1 passed the distance test.
+pattern 981 assigned to cluster 1
+Cluster member count updated
+
+
+PATTERN 982:
+The closest cluster is: 1
+Distance 2.775204 < 6.000000
+Therefore cluster 1 passed the distance test.
+pattern 982 assigned to cluster 1
+Cluster member count updated
+
+
+PATTERN 983:
+The closest cluster is: 0
+Distance 2.471501 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 983 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 984:
+The closest cluster is: 1
+Distance 4.373992 < 6.000000
+Therefore cluster 1 passed the distance test.
+pattern 984 assigned to cluster 1
+Cluster member count updated
+
+
+PATTERN 985:
+The closest cluster is: 3
+Distance 3.484960 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 985 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 986:
+The closest cluster is: 3
+Distance 3.771780 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 986 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 987:
+The closest cluster is: 12
+Distance 3.758509 < 6.000000
+Therefore cluster 12 passed the distance test.
+pattern 987 assigned to cluster 12
+Cluster member count updated
+
+
+PATTERN 988:
+The closest cluster is: 1
+Distance 5.114590 < 6.000000
+Therefore cluster 1 passed the distance test.
+pattern 988 assigned to cluster 1
+Cluster member count updated
+
+
+PATTERN 989:
+The closest cluster is: 15
+Distance 4.242662 < 6.000000
+Therefore cluster 15 passed the distance test.
+pattern 989 assigned to cluster 15
+Cluster member count updated
+
+
+PATTERN 990:
+The closest cluster is: 13
+Distance 3.157586 < 6.000000
+Therefore cluster 13 passed the distance test.
+pattern 990 assigned to cluster 13
+Cluster member count updated
+
+
+PATTERN 991:
+The closest cluster is: 5
+Distance 2.717745 < 6.000000
+Therefore cluster 5 passed the distance test.
+pattern 991 assigned to cluster 5
+Cluster member count updated
+
+
+PATTERN 992:
+The closest cluster is: 5
+Distance 2.285357 < 6.000000
+Therefore cluster 5 passed the distance test.
+pattern 992 assigned to cluster 5
+Cluster member count updated
+
+
+PATTERN 993:
+The closest cluster is: 5
+Distance 1.975916 < 6.000000
+Therefore cluster 5 passed the distance test.
+pattern 993 assigned to cluster 5
+Cluster member count updated
+
+
+PATTERN 994:
+The closest cluster is: 5
+Distance 2.114784 < 6.000000
+Therefore cluster 5 passed the distance test.
+pattern 994 assigned to cluster 5
+Cluster member count updated
+
+
+PATTERN 995:
+The closest cluster is: 5
+Distance 2.256618 < 6.000000
+Therefore cluster 5 passed the distance test.
+pattern 995 assigned to cluster 5
+Cluster member count updated
+
+
+PATTERN 996:
+The closest cluster is: 5
+Distance 2.612971 < 6.000000
+Therefore cluster 5 passed the distance test.
+pattern 996 assigned to cluster 5
+Cluster member count updated
+
+
+PATTERN 997:
+The closest cluster is: 5
+Distance 3.041852 < 6.000000
+Therefore cluster 5 passed the distance test.
+pattern 997 assigned to cluster 5
+Cluster member count updated
+
+
+PATTERN 998:
+The closest cluster is: 13
+Distance 4.152156 < 6.000000
+Therefore cluster 13 passed the distance test.
+pattern 998 assigned to cluster 13
+Cluster member count updated
+
+
+PATTERN 999:
+The closest cluster is: 13
+Distance 3.927456 < 6.000000
+Therefore cluster 13 passed the distance test.
+pattern 999 assigned to cluster 13
+Cluster member count updated
+
+
+PATTERN 1000:
+The closest cluster is: 13
+Distance 3.602583 < 6.000000
+Therefore cluster 13 passed the distance test.
+pattern 1000 assigned to cluster 13
+Cluster member count updated
+
+
+PATTERN 1001:
+The closest cluster is: 13
+Distance 3.273608 < 6.000000
+Therefore cluster 13 passed the distance test.
+pattern 1001 assigned to cluster 13
+Cluster member count updated
+
+
+PATTERN 1002:
+The closest cluster is: 13
+Distance 2.659173 < 6.000000
+Therefore cluster 13 passed the distance test.
+pattern 1002 assigned to cluster 13
+Cluster member count updated
+
+
+PATTERN 1003:
+The closest cluster is: 8
+Distance 4.598603 < 6.000000
+Therefore cluster 8 passed the distance test.
+pattern 1003 assigned to cluster 8
+Cluster member count updated
+
+
+PATTERN 1004:
+The closest cluster is: 8
+Distance 2.930527 < 6.000000
+Therefore cluster 8 passed the distance test.
+pattern 1004 assigned to cluster 8
+Cluster member count updated
+
+
+PATTERN 1005:
+The closest cluster is: 8
+Distance 2.363567 < 6.000000
+Therefore cluster 8 passed the distance test.
+pattern 1005 assigned to cluster 8
+Cluster member count updated
+
+
+PATTERN 1006:
+The closest cluster is: 8
+Distance 1.692598 < 6.000000
+Therefore cluster 8 passed the distance test.
+pattern 1006 assigned to cluster 8
+Cluster member count updated
+
+
+PATTERN 1007:
+The closest cluster is: 8
+Distance 1.611956 < 6.000000
+Therefore cluster 8 passed the distance test.
+pattern 1007 assigned to cluster 8
+Cluster member count updated
+
+
+PATTERN 1008:
+The closest cluster is: 8
+Distance 1.719443 < 6.000000
+Therefore cluster 8 passed the distance test.
+pattern 1008 assigned to cluster 8
+Cluster member count updated
+
+
+PATTERN 1009:
+The closest cluster is: 8
+Distance 3.142570 < 6.000000
+Therefore cluster 8 passed the distance test.
+pattern 1009 assigned to cluster 8
+Cluster member count updated
+
+
+PATTERN 1010:
+The closest cluster is: 15
+Distance 2.489924 < 6.000000
+Therefore cluster 15 passed the distance test.
+pattern 1010 assigned to cluster 15
+Cluster member count updated
+
+
+PATTERN 1011:
+The closest cluster is: 16
+Distance 4.561749 < 6.000000
+Therefore cluster 16 passed the distance test.
+pattern 1011 assigned to cluster 16
+Cluster member count updated
+
+
+PATTERN 1012:
+The closest cluster is: 16
+Distance 2.996468 < 6.000000
+Therefore cluster 16 passed the distance test.
+pattern 1012 assigned to cluster 16
+Cluster member count updated
+
+
+PATTERN 1013:
+The closest cluster is: 13
+Distance 4.610387 < 6.000000
+Therefore cluster 13 passed the distance test.
+pattern 1013 assigned to cluster 13
+Cluster member count updated
+
+
+PATTERN 1014:
+The closest cluster is: 12
+Distance 1.375828 < 6.000000
+Therefore cluster 12 passed the distance test.
+pattern 1014 assigned to cluster 12
+Cluster member count updated
+
+
+PATTERN 1015:
+The closest cluster is: 1
+Distance 4.154442 < 6.000000
+Therefore cluster 1 passed the distance test.
+pattern 1015 assigned to cluster 1
+Cluster member count updated
+
+
+PATTERN 1016:
+The closest cluster is: 1
+Distance 2.184037 < 6.000000
+Therefore cluster 1 passed the distance test.
+pattern 1016 assigned to cluster 1
+Cluster member count updated
+
+
+PATTERN 1017:
+The closest cluster is: 15
+Distance 2.525143 < 6.000000
+Therefore cluster 15 passed the distance test.
+pattern 1017 assigned to cluster 15
+Cluster member count updated
+
+
+PATTERN 1018:
+The closest cluster is: 15
+Distance 1.675729 < 6.000000
+Therefore cluster 15 passed the distance test.
+pattern 1018 assigned to cluster 15
+Cluster member count updated
+
+
+PATTERN 1019:
+The closest cluster is: 15
+Distance 1.254953 < 6.000000
+Therefore cluster 15 passed the distance test.
+pattern 1019 assigned to cluster 15
+Cluster member count updated
+
+
+PATTERN 1020:
+The closest cluster is: 13
+Distance 2.757514 < 6.000000
+Therefore cluster 13 passed the distance test.
+pattern 1020 assigned to cluster 13
+Cluster member count updated
+
+
+PATTERN 1021:
+The closest cluster is: 13
+Distance 3.519273 < 6.000000
+Therefore cluster 13 passed the distance test.
+pattern 1021 assigned to cluster 13
+Cluster member count updated
+
+
+PATTERN 1022:
+The closest cluster is: 13
+Distance 3.227182 < 6.000000
+Therefore cluster 13 passed the distance test.
+pattern 1022 assigned to cluster 13
+Cluster member count updated
+
+
+PATTERN 1023:
+The closest cluster is: 13
+Distance 2.696637 < 6.000000
+Therefore cluster 13 passed the distance test.
+pattern 1023 assigned to cluster 13
+Cluster member count updated
+
+
+PATTERN 1024:
+The closest cluster is: 13
+Distance 2.367685 < 6.000000
+Therefore cluster 13 passed the distance test.
+pattern 1024 assigned to cluster 13
+Cluster member count updated
+
+
+PATTERN 1025:
+The closest cluster is: 13
+Distance 2.169945 < 6.000000
+Therefore cluster 13 passed the distance test.
+pattern 1025 assigned to cluster 13
+Cluster member count updated
+
+
+PATTERN 1026:
+The closest cluster is: 13
+Distance 2.534675 < 6.000000
+Therefore cluster 13 passed the distance test.
+pattern 1026 assigned to cluster 13
+Cluster member count updated
+
+
+PATTERN 1027:
+The closest cluster is: 8
+Distance 3.078790 < 6.000000
+Therefore cluster 8 passed the distance test.
+pattern 1027 assigned to cluster 8
+Cluster member count updated
+
+
+PATTERN 1028:
+The closest cluster is: 8
+Distance 1.942525 < 6.000000
+Therefore cluster 8 passed the distance test.
+pattern 1028 assigned to cluster 8
+Cluster member count updated
+
+
+PATTERN 1029:
+The closest cluster is: 8
+Distance 1.777725 < 6.000000
+Therefore cluster 8 passed the distance test.
+pattern 1029 assigned to cluster 8
+Cluster member count updated
+
+
+PATTERN 1030:
+The closest cluster is: 8
+Distance 2.657534 < 6.000000
+Therefore cluster 8 passed the distance test.
+pattern 1030 assigned to cluster 8
+Cluster member count updated
+
+
+PATTERN 1031:
+The closest cluster is: 16
+Distance 3.086814 < 6.000000
+Therefore cluster 16 passed the distance test.
+pattern 1031 assigned to cluster 16
+Cluster member count updated
+
+
+PATTERN 1032:
+The closest cluster is: 8
+Distance 3.567147 < 6.000000
+Therefore cluster 8 passed the distance test.
+pattern 1032 assigned to cluster 8
+Cluster member count updated
+
+
+PATTERN 1033:
+The closest cluster is: 8
+Distance 4.315241 < 6.000000
+Therefore cluster 8 passed the distance test.
+pattern 1033 assigned to cluster 8
+Cluster member count updated
+
+
+PATTERN 1034:
+The closest cluster is: 8
+Distance 3.652264 < 6.000000
+Therefore cluster 8 passed the distance test.
+pattern 1034 assigned to cluster 8
+Cluster member count updated
+
+
+PATTERN 1035:
+The closest cluster is: 8
+Distance 3.419945 < 6.000000
+Therefore cluster 8 passed the distance test.
+pattern 1035 assigned to cluster 8
+Cluster member count updated
+
+
+PATTERN 1036:
+The closest cluster is: 5
+Distance 3.079940 < 6.000000
+Therefore cluster 5 passed the distance test.
+pattern 1036 assigned to cluster 5
+Cluster member count updated
+
+
+PATTERN 1037:
+The closest cluster is: 10
+Distance 3.282589 < 6.000000
+Therefore cluster 10 passed the distance test.
+pattern 1037 assigned to cluster 10
+Cluster member count updated
+
+
+PATTERN 1038:
+The closest cluster is: 10
+Distance 3.754550 < 6.000000
+Therefore cluster 10 passed the distance test.
+pattern 1038 assigned to cluster 10
+Cluster member count updated
+
+
+PATTERN 1039:
+The closest cluster is: 8
+Distance 3.774336 < 6.000000
+Therefore cluster 8 passed the distance test.
+pattern 1039 assigned to cluster 8
+Cluster member count updated
+
+
+PATTERN 1040:
+The closest cluster is: 0
+Distance 4.642472 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 1040 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 1041:
+The closest cluster is: 13
+Distance 2.626225 < 6.000000
+Therefore cluster 13 passed the distance test.
+pattern 1041 assigned to cluster 13
+Cluster member count updated
+
+
+PATTERN 1042:
+The closest cluster is: 16
+Distance 3.612007 < 6.000000
+Therefore cluster 16 passed the distance test.
+pattern 1042 assigned to cluster 16
+Cluster member count updated
+
+
+PATTERN 1043:
+The closest cluster is: 13
+Distance 3.683259 < 6.000000
+Therefore cluster 13 passed the distance test.
+pattern 1043 assigned to cluster 13
+Cluster member count updated
+
+
+PATTERN 1044:
+The closest cluster is: 10
+Distance 5.052014 < 6.000000
+Therefore cluster 10 passed the distance test.
+pattern 1044 assigned to cluster 10
+Cluster member count updated
+
+
+PATTERN 1045:
+The closest cluster is: 10
+Distance 3.302577 < 6.000000
+Therefore cluster 10 passed the distance test.
+pattern 1045 assigned to cluster 10
+Cluster member count updated
+
+
+PATTERN 1046:
+The closest cluster is: 5
+Distance 1.933440 < 6.000000
+Therefore cluster 5 passed the distance test.
+pattern 1046 assigned to cluster 5
+Cluster member count updated
+
+
+PATTERN 1047:
+The closest cluster is: 13
+Distance 3.582463 < 6.000000
+Therefore cluster 13 passed the distance test.
+pattern 1047 assigned to cluster 13
+Cluster member count updated
+
+
+PATTERN 1048:
+The closest cluster is: 13
+Distance 2.402234 < 6.000000
+Therefore cluster 13 passed the distance test.
+pattern 1048 assigned to cluster 13
+Cluster member count updated
+
+
+PATTERN 1049:
+The closest cluster is: 13
+Distance 2.830323 < 6.000000
+Therefore cluster 13 passed the distance test.
+pattern 1049 assigned to cluster 13
+Cluster member count updated
+
+
+PATTERN 1050:
+The closest cluster is: 7
+Distance 4.147609 < 6.000000
+Therefore cluster 7 passed the distance test.
+pattern 1050 assigned to cluster 7
+Cluster member count updated
+
+
+PATTERN 1051:
+The closest cluster is: 1
+Distance 5.224656 < 6.000000
+Therefore cluster 1 passed the distance test.
+pattern 1051 assigned to cluster 1
+Cluster member count updated
+
+
+PATTERN 1052:
+The closest cluster is: 1
+Distance 4.009131 < 6.000000
+Therefore cluster 1 passed the distance test.
+pattern 1052 assigned to cluster 1
+Cluster member count updated
+
+
+PATTERN 1053:
+The closest cluster is: 13
+Distance 2.686197 < 6.000000
+Therefore cluster 13 passed the distance test.
+pattern 1053 assigned to cluster 13
+Cluster member count updated
+
+
+PATTERN 1054:
+The closest cluster is: 13
+Distance 2.945178 < 6.000000
+Therefore cluster 13 passed the distance test.
+pattern 1054 assigned to cluster 13
+Cluster member count updated
+
+
+PATTERN 1055:
+The closest cluster is: 5
+Distance 3.694697 < 6.000000
+Therefore cluster 5 passed the distance test.
+pattern 1055 assigned to cluster 5
+Cluster member count updated
+
+
+PATTERN 1056:
+The closest cluster is: 5
+Distance 3.052559 < 6.000000
+Therefore cluster 5 passed the distance test.
+pattern 1056 assigned to cluster 5
+Cluster member count updated
+
+
+PATTERN 1057:
+The closest cluster is: 5
+Distance 2.870415 < 6.000000
+Therefore cluster 5 passed the distance test.
+pattern 1057 assigned to cluster 5
+Cluster member count updated
+
+
+PATTERN 1058:
+The closest cluster is: 13
+Distance 2.714278 < 6.000000
+Therefore cluster 13 passed the distance test.
+pattern 1058 assigned to cluster 13
+Cluster member count updated
+
+
+PATTERN 1059:
+The closest cluster is: 7
+Distance 4.247148 < 6.000000
+Therefore cluster 7 passed the distance test.
+pattern 1059 assigned to cluster 7
+Cluster member count updated
+
+
+PATTERN 1060:
+The closest cluster is: 0
+Distance 2.831502 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 1060 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 1061:
+The closest cluster is: 0
+Distance 2.724175 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 1061 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 1062:
+The closest cluster is: 12
+Distance 2.354401 < 6.000000
+Therefore cluster 12 passed the distance test.
+pattern 1062 assigned to cluster 12
+Cluster member count updated
+
+
+PATTERN 1063:
+The closest cluster is: 12
+Distance 1.782712 < 6.000000
+Therefore cluster 12 passed the distance test.
+pattern 1063 assigned to cluster 12
+Cluster member count updated
+
+
+PATTERN 1064:
+The closest cluster is: 0
+Distance 2.690345 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 1064 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 1065:
+The closest cluster is: 1
+Distance 2.643162 < 6.000000
+Therefore cluster 1 passed the distance test.
+pattern 1065 assigned to cluster 1
+Cluster member count updated
+
+
+PATTERN 1066:
+The closest cluster is: 12
+Distance 2.431940 < 6.000000
+Therefore cluster 12 passed the distance test.
+pattern 1066 assigned to cluster 12
+Cluster member count updated
+
+
+PATTERN 1067:
+The closest cluster is: 12
+Distance 2.160266 < 6.000000
+Therefore cluster 12 passed the distance test.
+pattern 1067 assigned to cluster 12
+Cluster member count updated
+
+
+PATTERN 1068:
+The closest cluster is: 12
+Distance 2.461846 < 6.000000
+Therefore cluster 12 passed the distance test.
+pattern 1068 assigned to cluster 12
+Cluster member count updated
+
+
+PATTERN 1069:
+The closest cluster is: 1
+Distance 3.010787 < 6.000000
+Therefore cluster 1 passed the distance test.
+pattern 1069 assigned to cluster 1
+Cluster member count updated
+
+
+PATTERN 1070:
+The closest cluster is: 12
+Distance 1.536294 < 6.000000
+Therefore cluster 12 passed the distance test.
+pattern 1070 assigned to cluster 12
+Cluster member count updated
+
+
+PATTERN 1071:
+The closest cluster is: 5
+Distance 3.575659 < 6.000000
+Therefore cluster 5 passed the distance test.
+pattern 1071 assigned to cluster 5
+Cluster member count updated
+
+
+PATTERN 1072:
+The closest cluster is: 5
+Distance 4.412020 < 6.000000
+Therefore cluster 5 passed the distance test.
+pattern 1072 assigned to cluster 5
+Cluster member count updated
+
+
+PATTERN 1073:
+The closest cluster is: 5
+Distance 5.206986 < 6.000000
+Therefore cluster 5 passed the distance test.
+pattern 1073 assigned to cluster 5
+Cluster member count updated
+
+
+PATTERN 1074:
+The closest cluster is: 5
+Distance 5.485870 < 6.000000
+Therefore cluster 5 passed the distance test.
+pattern 1074 assigned to cluster 5
+Cluster member count updated
+
+
+PATTERN 1075:
+The closest cluster is: 5
+Distance 5.322747 < 6.000000
+Therefore cluster 5 passed the distance test.
+pattern 1075 assigned to cluster 5
+Cluster member count updated
+
+
+PATTERN 1076:
+The closest cluster is: 5
+Distance 5.087569 < 6.000000
+Therefore cluster 5 passed the distance test.
+pattern 1076 assigned to cluster 5
+Cluster member count updated
+
+
+PATTERN 1077:
+The closest cluster is: 5
+Distance 4.676772 < 6.000000
+Therefore cluster 5 passed the distance test.
+pattern 1077 assigned to cluster 5
+Cluster member count updated
+
+
+PATTERN 1078:
+The closest cluster is: 5
+Distance 5.022928 < 6.000000
+Therefore cluster 5 passed the distance test.
+pattern 1078 assigned to cluster 5
+Cluster member count updated
+
+
+PATTERN 1079:
+The closest cluster is: 5
+Distance 4.315403 < 6.000000
+Therefore cluster 5 passed the distance test.
+pattern 1079 assigned to cluster 5
+Cluster member count updated
+
+
+PATTERN 1080:
+The closest cluster is: 5
+Distance 3.856796 < 6.000000
+Therefore cluster 5 passed the distance test.
+pattern 1080 assigned to cluster 5
+Cluster member count updated
+
+
+PATTERN 1081:
+The closest cluster is: 5
+Distance 3.798081 < 6.000000
+Therefore cluster 5 passed the distance test.
+pattern 1081 assigned to cluster 5
+Cluster member count updated
+
+
+PATTERN 1082:
+The closest cluster is: 5
+Distance 4.110615 < 6.000000
+Therefore cluster 5 passed the distance test.
+pattern 1082 assigned to cluster 5
+Cluster member count updated
+
+
+PATTERN 1083:
+The closest cluster is: 5
+Distance 4.612835 < 6.000000
+Therefore cluster 5 passed the distance test.
+pattern 1083 assigned to cluster 5
+Cluster member count updated
+
+
+PATTERN 1084:
+The closest cluster is: 8
+Distance 4.383531 < 6.000000
+Therefore cluster 8 passed the distance test.
+pattern 1084 assigned to cluster 8
+Cluster member count updated
+
+
+PATTERN 1085:
+The closest cluster is: 8
+Distance 3.327838 < 6.000000
+Therefore cluster 8 passed the distance test.
+pattern 1085 assigned to cluster 8
+Cluster member count updated
+
+
+PATTERN 1086:
+The closest cluster is: 8
+Distance 3.122825 < 6.000000
+Therefore cluster 8 passed the distance test.
+pattern 1086 assigned to cluster 8
+Cluster member count updated
+
+
+PATTERN 1087:
+The closest cluster is: 8
+Distance 2.607749 < 6.000000
+Therefore cluster 8 passed the distance test.
+pattern 1087 assigned to cluster 8
+Cluster member count updated
+
+
+PATTERN 1088:
+The closest cluster is: 8
+Distance 2.447948 < 6.000000
+Therefore cluster 8 passed the distance test.
+pattern 1088 assigned to cluster 8
+Cluster member count updated
+
+
+PATTERN 1089:
+The closest cluster is: 8
+Distance 3.253872 < 6.000000
+Therefore cluster 8 passed the distance test.
+pattern 1089 assigned to cluster 8
+Cluster member count updated
+
+
+PATTERN 1090:
+The closest cluster is: 8
+Distance 3.583194 < 6.000000
+Therefore cluster 8 passed the distance test.
+pattern 1090 assigned to cluster 8
+Cluster member count updated
+
+
+PATTERN 1091:
+The closest cluster is: 16
+Distance 1.856892 < 6.000000
+Therefore cluster 16 passed the distance test.
+pattern 1091 assigned to cluster 16
+Cluster member count updated
+
+
+PATTERN 1092:
+The closest cluster is: 16
+Distance 2.507001 < 6.000000
+Therefore cluster 16 passed the distance test.
+pattern 1092 assigned to cluster 16
+Cluster member count updated
+
+
+PATTERN 1093:
+The closest cluster is: 16
+Distance 2.178170 < 6.000000
+Therefore cluster 16 passed the distance test.
+pattern 1093 assigned to cluster 16
+Cluster member count updated
+
+
+PATTERN 1094:
+The closest cluster is: 16
+Distance 2.535075 < 6.000000
+Therefore cluster 16 passed the distance test.
+pattern 1094 assigned to cluster 16
+Cluster member count updated
+
+
+PATTERN 1095:
+The closest cluster is: 16
+Distance 2.265669 < 6.000000
+Therefore cluster 16 passed the distance test.
+pattern 1095 assigned to cluster 16
+Cluster member count updated
+
+
+PATTERN 1096:
+The closest cluster is: 16
+Distance 2.103537 < 6.000000
+Therefore cluster 16 passed the distance test.
+pattern 1096 assigned to cluster 16
+Cluster member count updated
+
+
+PATTERN 1097:
+The closest cluster is: 16
+Distance 3.002090 < 6.000000
+Therefore cluster 16 passed the distance test.
+pattern 1097 assigned to cluster 16
+Cluster member count updated
+
+
+PATTERN 1098:
+The closest cluster is: 16
+Distance 2.948259 < 6.000000
+Therefore cluster 16 passed the distance test.
+pattern 1098 assigned to cluster 16
+Cluster member count updated
+
+
+PATTERN 1099:
+The closest cluster is: 15
+Distance 3.917894 < 6.000000
+Therefore cluster 15 passed the distance test.
+pattern 1099 assigned to cluster 15
+Cluster member count updated
+
+
+PATTERN 1100:
+The closest cluster is: 16
+Distance 4.217930 < 6.000000
+Therefore cluster 16 passed the distance test.
+pattern 1100 assigned to cluster 16
+Cluster member count updated
+
+
+PATTERN 1101:
+The closest cluster is: 7
+Distance 4.715795 < 6.000000
+Therefore cluster 7 passed the distance test.
+pattern 1101 assigned to cluster 7
+Cluster member count updated
+
+
+PATTERN 1102:
+The closest cluster is: 7
+Distance 3.419724 < 6.000000
+Therefore cluster 7 passed the distance test.
+pattern 1102 assigned to cluster 7
+Cluster member count updated
+
+
+PATTERN 1103:
+The closest cluster is: 1
+Distance 4.865608 < 6.000000
+Therefore cluster 1 passed the distance test.
+pattern 1103 assigned to cluster 1
+Cluster member count updated
+
+
+PATTERN 1104:
+The closest cluster is: 1
+Distance 3.607400 < 6.000000
+Therefore cluster 1 passed the distance test.
+pattern 1104 assigned to cluster 1
+Cluster member count updated
+
+
+PATTERN 1105:
+The closest cluster is: 1
+Distance 3.871096 < 6.000000
+Therefore cluster 1 passed the distance test.
+pattern 1105 assigned to cluster 1
+Cluster member count updated
+
+
+PATTERN 1106:
+The closest cluster is: 3
+Distance 2.726719 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1106 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1107:
+The closest cluster is: 3
+Distance 3.203443 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1107 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1108:
+The closest cluster is: 0
+Distance 3.764324 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 1108 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 1109:
+The closest cluster is: 3
+Distance 2.606090 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1109 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1110:
+The closest cluster is: 3
+Distance 1.450438 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1110 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1111:
+The closest cluster is: 3
+Distance 2.209367 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1111 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1112:
+The closest cluster is: 3
+Distance 2.728503 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1112 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1113:
+The closest cluster is: 3
+Distance 2.748022 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1113 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1114:
+The closest cluster is: 0
+Distance 1.752147 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 1114 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 1115:
+The closest cluster is: 0
+Distance 2.333940 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 1115 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 1116:
+The closest cluster is: 3
+Distance 2.311013 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1116 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1117:
+The closest cluster is: 3
+Distance 2.885730 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1117 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1118:
+The closest cluster is: 3
+Distance 1.847394 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1118 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1119:
+The closest cluster is: 3
+Distance 2.328362 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1119 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1120:
+The closest cluster is: 3
+Distance 2.047926 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1120 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1121:
+The closest cluster is: 3
+Distance 3.354407 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1121 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1122:
+The closest cluster is: 3
+Distance 2.719430 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1122 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1123:
+The closest cluster is: 3
+Distance 2.941994 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1123 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1124:
+The closest cluster is: 3
+Distance 2.095648 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1124 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1125:
+The closest cluster is: 3
+Distance 2.340944 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1125 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1126:
+The closest cluster is: 3
+Distance 2.733326 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1126 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1127:
+The closest cluster is: 3
+Distance 1.996564 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1127 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1128:
+The closest cluster is: 3
+Distance 2.450066 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1128 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1129:
+The closest cluster is: 3
+Distance 1.640800 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1129 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1130:
+The closest cluster is: 3
+Distance 3.227256 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1130 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1131:
+The closest cluster is: 0
+Distance 1.974538 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 1131 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 1132:
+The closest cluster is: 3
+Distance 2.844107 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1132 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1133:
+The closest cluster is: 3
+Distance 2.231611 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1133 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1134:
+The closest cluster is: 3
+Distance 2.618074 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1134 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1135:
+The closest cluster is: 3
+Distance 1.911896 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1135 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1136:
+The closest cluster is: 3
+Distance 2.573329 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1136 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1137:
+The closest cluster is: 3
+Distance 1.817579 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1137 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1138:
+The closest cluster is: 3
+Distance 2.684286 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1138 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1139:
+The closest cluster is: 3
+Distance 2.385175 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1139 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1140:
+The closest cluster is: 0
+Distance 2.147252 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 1140 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 1141:
+The closest cluster is: 3
+Distance 2.794929 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1141 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1142:
+The closest cluster is: 3
+Distance 3.151649 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1142 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1143:
+The closest cluster is: 3
+Distance 2.730380 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1143 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1144:
+The closest cluster is: 3
+Distance 3.660718 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1144 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1145:
+The closest cluster is: 0
+Distance 2.168877 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 1145 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 1146:
+The closest cluster is: 3
+Distance 1.722289 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1146 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1147:
+The closest cluster is: 3
+Distance 1.801890 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1147 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1148:
+The closest cluster is: 3
+Distance 2.769724 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1148 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1149:
+The closest cluster is: 0
+Distance 2.485462 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 1149 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 1150:
+The closest cluster is: 3
+Distance 2.650132 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1150 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1151:
+The closest cluster is: 3
+Distance 4.000025 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1151 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1152:
+The closest cluster is: 3
+Distance 3.020473 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1152 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1153:
+The closest cluster is: 3
+Distance 2.269946 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1153 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1154:
+The closest cluster is: 3
+Distance 3.819781 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1154 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1155:
+The closest cluster is: 3
+Distance 2.781893 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1155 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1156:
+The closest cluster is: 3
+Distance 2.215200 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1156 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1157:
+The closest cluster is: 3
+Distance 1.912187 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1157 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1158:
+The closest cluster is: 3
+Distance 1.843215 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1158 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1159:
+The closest cluster is: 3
+Distance 1.766507 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1159 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1160:
+The closest cluster is: 3
+Distance 2.298784 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1160 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1161:
+The closest cluster is: 3
+Distance 1.941667 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1161 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1162:
+The closest cluster is: 3
+Distance 2.522036 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1162 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1163:
+The closest cluster is: 3
+Distance 2.540715 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1163 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1164:
+The closest cluster is: 3
+Distance 2.760997 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1164 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1165:
+The closest cluster is: 3
+Distance 2.137019 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1165 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1166:
+The closest cluster is: 3
+Distance 1.571586 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1166 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1167:
+The closest cluster is: 3
+Distance 1.961128 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1167 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1168:
+The closest cluster is: 3
+Distance 2.371093 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1168 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1169:
+The closest cluster is: 3
+Distance 1.602045 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1169 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1170:
+The closest cluster is: 3
+Distance 1.364325 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1170 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1171:
+The closest cluster is: 3
+Distance 2.367378 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1171 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1172:
+The closest cluster is: 0
+Distance 3.016615 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 1172 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 1173:
+The closest cluster is: 3
+Distance 2.960866 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1173 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1174:
+The closest cluster is: 3
+Distance 3.446216 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1174 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1175:
+The closest cluster is: 3
+Distance 1.155213 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1175 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1176:
+The closest cluster is: 0
+Distance 2.630536 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 1176 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 1177:
+The closest cluster is: 0
+Distance 2.706790 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 1177 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 1178:
+The closest cluster is: 0
+Distance 3.432932 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 1178 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 1179:
+The closest cluster is: 3
+Distance 2.786908 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1179 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1180:
+The closest cluster is: 3
+Distance 1.716612 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1180 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1181:
+The closest cluster is: 0
+Distance 2.487241 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 1181 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 1182:
+The closest cluster is: 0
+Distance 2.344847 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 1182 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 1183:
+The closest cluster is: 3
+Distance 2.922308 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1183 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1184:
+The closest cluster is: 0
+Distance 3.920155 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 1184 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 1185:
+The closest cluster is: 0
+Distance 2.889812 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 1185 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 1186:
+The closest cluster is: 3
+Distance 3.465058 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1186 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1187:
+The closest cluster is: 3
+Distance 2.366788 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1187 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1188:
+The closest cluster is: 3
+Distance 2.526237 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1188 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1189:
+The closest cluster is: 3
+Distance 1.988963 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1189 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1190:
+The closest cluster is: 3
+Distance 3.008405 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1190 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1191:
+The closest cluster is: 0
+Distance 2.694441 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 1191 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 1192:
+The closest cluster is: 12
+Distance 4.951460 < 6.000000
+Therefore cluster 12 passed the distance test.
+pattern 1192 assigned to cluster 12
+Cluster member count updated
+
+
+PATTERN 1193:
+The closest cluster is: 12
+Distance 5.497719 < 6.000000
+Therefore cluster 12 passed the distance test.
+pattern 1193 assigned to cluster 12
+Cluster member count updated
+
+
+PATTERN 1194:
+The closest cluster is: 0
+Distance 4.738632 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 1194 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 1195:
+The closest cluster is: 0
+Distance 3.637751 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 1195 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 1196:
+The closest cluster is: 3
+Distance 2.860361 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1196 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1197:
+The closest cluster is: 0
+Distance 2.034233 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 1197 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 1198:
+The closest cluster is: 3
+Distance 2.856267 < 6.000000
+Therefore cluster 3 passed the distance test.
+pattern 1198 assigned to cluster 3
+Cluster member count updated
+
+
+PATTERN 1199:
+The closest cluster is: 0
+Distance 1.985949 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 1199 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 1200:
+The closest cluster is: 12
+Distance 3.249497 < 6.000000
+Therefore cluster 12 passed the distance test.
+pattern 1200 assigned to cluster 12
+Cluster member count updated
+
+
+PATTERN 1201:
+The closest cluster is: 0
+Distance 2.617920 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 1201 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 1202:
+The closest cluster is: 0
+Distance 2.165810 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 1202 assigned to cluster 0
+Cluster member count updated
+
+
+PATTERN 1203:
+The closest cluster is: 0
+Distance 4.433136 < 6.000000
+Therefore cluster 0 passed the distance test.
+pattern 1203 assigned to cluster 0
+Cluster member count updated
+received signal 2
+Updating cluster centers in database
+Assigned patterns count updated succesfully
+Database updated succesfully.
+Closing database...

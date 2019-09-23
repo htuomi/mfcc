@@ -1,0 +1,340 @@
+
+
+PATTERN 1:
+No Clusters exist pattern 1 assigned to cluster 0
+
+
+PATTERN 2:
+pattern 2 assigned to cluster 0
+
+
+PATTERN 3:
+pattern 3 assigned to cluster 0
+
+
+PATTERN 4:
+pattern 4 assigned to cluster 0
+
+
+PATTERN 5:
+pattern 5 assigned to cluster 0
+
+
+PATTERN 6:
+pattern 6 assigned to cluster 0
+
+
+PATTERN 7:
+pattern 7 assigned to cluster 0
+
+
+PATTERN 8:
+pattern 8 assigned to cluster 0
+
+
+PATTERN 9:
+pattern 9 assigned to cluster 0
+
+
+PATTERN 10:
+pattern 10 assigned to cluster 0
+
+
+PATTERN 11:
+pattern 11 assigned to cluster 0
+
+
+PATTERN 12:
+pattern 12 assigned to cluster 0
+
+
+PATTERN 13:
+pattern 13 assigned to cluster 0
+
+
+PATTERN 14:
+pattern 14 assigned to cluster 0
+
+
+PATTERN 15:
+pattern 15 assigned to cluster 0
+
+
+PATTERN 16:
+pattern 16 assigned to cluster 0
+
+
+PATTERN 17:
+pattern 17 assigned to cluster 0
+
+
+PATTERN 18:
+pattern 18 assigned to cluster 0
+
+
+PATTERN 19:
+pattern 19 assigned to cluster 0
+
+
+PATTERN 20:
+pattern 20 assigned to cluster 0
+
+
+PATTERN 21:
+pattern 21 assigned to cluster 0
+
+
+PATTERN 22:
+pattern 22 assigned to cluster 0
+
+
+PATTERN 23:
+pattern 23 assigned to cluster 0
+
+
+PATTERN 24:
+pattern 24 assigned to cluster 0
+
+
+PATTERN 25:
+pattern 25 assigned to cluster 0
+
+
+PATTERN 26:
+pattern 26 assigned to cluster 0
+
+
+PATTERN 27:
+pattern 27 assigned to cluster 0
+
+
+PATTERN 28:
+pattern 28 assigned to cluster 0
+
+
+PATTERN 29:
+pattern 29 assigned to cluster 1
+
+
+PATTERN 30:
+pattern 30 assigned to cluster 2
+
+
+PATTERN 31:
+pattern 31 assigned to cluster 2
+
+
+PATTERN 32:
+pattern 32 assigned to cluster 2
+
+
+PATTERN 33:
+pattern 33 assigned to cluster 2
+
+
+PATTERN 34:
+pattern 34 assigned to cluster 2
+
+
+PATTERN 35:
+pattern 35 assigned to cluster 2
+
+
+PATTERN 36:
+pattern 36 assigned to cluster 2
+
+
+PATTERN 37:
+pattern 37 assigned to cluster 2
+
+
+PATTERN 38:
+pattern 38 assigned to cluster 2
+
+
+PATTERN 39:
+pattern 39 assigned to cluster 2
+
+
+PATTERN 40:
+pattern 40 assigned to cluster 2
+
+
+PATTERN 41:
+pattern 41 assigned to cluster 2
+
+
+PATTERN 42:
+pattern 42 assigned to cluster 2
+
+
+PATTERN 43:
+pattern 43 assigned to cluster 2
+
+
+PATTERN 44:
+pattern 44 assigned to cluster 2
+
+
+PATTERN 45:
+pattern 45 assigned to cluster 2
+
+
+PATTERN 46:
+pattern 46 assigned to cluster 2
+
+
+PATTERN 47:
+pattern 47 assigned to cluster 2
+
+
+PATTERN 48:
+pattern 48 assigned to cluster 2
+
+
+PATTERN 49:
+pattern 49 assigned to cluster 2
+
+
+PATTERN 50:
+pattern 50 assigned to cluster 2
+
+
+PATTERN 51:
+pattern 51 assigned to cluster 2
+
+
+PATTERN 52:
+pattern 52 assigned to cluster 2
+
+
+PATTERN 53:
+pattern 53 assigned to cluster 2
+
+
+PATTERN 54:
+pattern 54 assigned to cluster 2
+
+
+PATTERN 55:
+pattern 55 assigned to cluster 2
+
+
+PATTERN 56:
+pattern 56 assigned to cluster 2
+
+
+PATTERN 57:
+pattern 57 assigned to cluster 3
+
+
+PATTERN 58:
+pattern 58 assigned to cluster 3
+
+
+PATTERN 59:
+pattern 59 assigned to cluster 3
+
+
+PATTERN 60:
+pattern 60 assigned to cluster 3
+
+
+PATTERN 61:
+pattern 61 assigned to cluster 3
+
+
+PATTERN 62:
+pattern 62 assigned to cluster 3
+
+
+PATTERN 63:
+pattern 63 assigned to cluster 3
+
+
+PATTERN 64:
+pattern 64 assigned to cluster 3
+
+
+PATTERN 65:
+pattern 65 assigned to cluster 3
+
+
+PATTERN 66:
+pattern 66 assigned to cluster 3
+
+
+PATTERN 67:
+pattern 67 assigned to cluster 3
+
+
+PATTERN 68:
+pattern 68 assigned to cluster 3
+
+
+PATTERN 69:
+pattern 69 assigned to cluster 3
+
+
+PATTERN 70:
+pattern 70 assigned to cluster 3
+
+
+PATTERN 71:
+pattern 71 assigned to cluster 3
+
+
+PATTERN 72:
+pattern 72 assigned to cluster 3
+
+
+PATTERN 73:
+pattern 73 assigned to cluster 3
+
+
+PATTERN 74:
+pattern 74 assigned to cluster 3
+
+
+PATTERN 75:
+pattern 75 assigned to cluster 3
+
+
+PATTERN 76:
+pattern 76 assigned to cluster 3
+
+
+PATTERN 77:
+pattern 77 assigned to cluster 3
+
+
+PATTERN 78:
+pattern 78 assigned to cluster 3
+
+
+PATTERN 79:
+pattern 79 assigned to cluster 3
+
+
+PATTERN 80:
+pattern 80 assigned to cluster 3
+
+
+PATTERN 81:
+pattern 81 assigned to cluster 3
+
+
+PATTERN 82:
+pattern 82 assigned to cluster 3
+
+
+PATTERN 83:
+pattern 83 assigned to cluster 3
+
+
+PATTERN 84:
+pattern 84 assigned to cluster 3
+
+
+PATTERN 85:
+pattern 85 assigned to cluster 3
